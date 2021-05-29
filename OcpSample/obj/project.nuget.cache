@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dcaF3LfwEc/2El7uZMH5q0mjQ/AhEY1JFKNmA0NOBvknU8qf4Yq1wXdtaVgV56L4mBiDaVa7CP/5lcUo5WnAaA==",
+  "success": true,
+  "projectFilePath": "E:\\PROJECTS-FUTURE\\GitHub\\kle-solidsample\\KLESolidSample\\OcpSample\\OcpSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaanl\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
